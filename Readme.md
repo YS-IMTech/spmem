@@ -1,9 +1,7 @@
 # Video World Models with Long-term Spatial Memory
 
 
-
 [**Project page**](https://spmem.github.io/) | [**Paper**](https://arxiv.org/abs/2506.05284) | [**Data**](https://huggingface.co/datasets/ysmikey/spmem_megadata)  
-
 
 
 [Tong Wu*](https://wutong16.github.io/), 
@@ -90,7 +88,7 @@ bash train_example.sh
 ```
 
 ## ✒️Citation
-If you find our work helpful for your research, please consider giving a star ⭐ and citation 📝
+If you find our work helpful for your research, please consider giving a star ⭐ and citation 📝.
 
 ```bibtex
 @article{wu2025video,
